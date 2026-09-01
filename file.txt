@@ -1,5 +1,9 @@
-this is code
+this is code that was changed
 
+<<<<<<< HEAD
 oooh this is some change to old code
 
 this is even NEWER code
+=======
+oooh this is new code
+>>>>>>> 6343359717328937dd036d6a2609155369c2c132
